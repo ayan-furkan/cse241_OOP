@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "HW",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
